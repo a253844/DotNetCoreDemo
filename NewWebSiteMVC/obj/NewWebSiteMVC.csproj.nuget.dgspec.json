@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Martin.Wang\\Desktop\\Demo\\DotNetCoreDemo\\NewWebSite\\NewWebSite.csproj": {}
+    "C:\\Users\\Martin.Wang\\Desktop\\Demo\\DotNetCoreDemo\\NewWebSiteMVC\\NewWebSiteMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Martin.Wang\\Desktop\\Demo\\DotNetCoreDemo\\NewWebSite\\NewWebSite.csproj": {
+    "C:\\Users\\Martin.Wang\\Desktop\\Demo\\DotNetCoreDemo\\NewWebSiteMVC\\NewWebSiteMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Martin.Wang\\Desktop\\Demo\\DotNetCoreDemo\\NewWebSite\\NewWebSite.csproj",
-        "projectName": "NewWebSite",
-        "projectPath": "C:\\Users\\Martin.Wang\\Desktop\\Demo\\DotNetCoreDemo\\NewWebSite\\NewWebSite.csproj",
+        "projectUniqueName": "C:\\Users\\Martin.Wang\\Desktop\\Demo\\DotNetCoreDemo\\NewWebSiteMVC\\NewWebSiteMVC.csproj",
+        "projectName": "NewWebSiteMVC",
+        "projectPath": "C:\\Users\\Martin.Wang\\Desktop\\Demo\\DotNetCoreDemo\\NewWebSiteMVC\\NewWebSiteMVC.csproj",
         "packagesPath": "C:\\Users\\Martin.Wang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Martin.Wang\\Desktop\\Demo\\DotNetCoreDemo\\NewWebSite\\obj\\",
+        "outputPath": "C:\\Users\\Martin.Wang\\Desktop\\Demo\\DotNetCoreDemo\\NewWebSiteMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Martin.Wang\\AppData\\Roaming\\NuGet\\NuGet.Config",
